@@ -54,6 +54,8 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 
 ### 1️⃣ Executive Summary
 **Purpose:** High-level portfolio health snapshot
+  ![Dashboard Preview]( Images/Screenshot 2025-12-26 174032.png)
+  Images/Screenshot 2025-12-26 174032.png
 
 **Key KPIs:**
 - Total Clients: **3000**
