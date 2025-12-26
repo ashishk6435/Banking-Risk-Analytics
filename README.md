@@ -45,11 +45,9 @@ EDA is performed using **Python (Pandas, Matplotlib, Seaborn)**.
 
 **Financial Behavior**: Customers who maintain checking accounts are likely to have savings accounts and vice versa. This suggests that individuals who engage more with banking services tend to manage their finances through multiple accounts.
 
-**Marketing Opportunities**: If there’s a strong correlation, it may present an opportunity for targeted marketing campaigns. For example, we could promote savings account products to checking account holders to encourage them to save more.
+**Marketing Opportunities**: If there’s a strong correlation, it presents an opportunity for targeted marketing campaigns. For example, we could promote savings account products to checking account holders to encourage them to save more.
 
 **Risk Assessment**: High correlation points to lower risk profiles for customers with both types of accounts. These customers might be more financially stable and responsible, making them more desirable for loans or credit products.
-
-**Product Bundling**: The correlation suggests potential for bundling checking and savings accounts, which could enhance customer satisfaction and loyalty.
 
 **Customer Segmentation**: we can use this insight to segment customers based on their account types, allowing for tailored services and communication.
 
