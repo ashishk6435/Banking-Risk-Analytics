@@ -53,9 +53,13 @@ EDA was performed using **Python (Pandas, NumPy, Matplotlib, Seaborn)**.
 The dashboard is divided into **four analytical pages**, each answering a specific business question.
 
 ### 1️⃣ Executive Summary
-**Purpose:** High-level portfolio health snapshot
-  ![Dashboard Preview]( Images/Screenshot 2025-12-26 174032.png)
-  Images/Screenshot 2025-12-26 174032.png
+**Purpose:** High-level portfolio health snapshot 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Images/Screenshot 2025-12-26 174032.png" width="800">
+</p>
+
 
 **Key KPIs:**
 - Total Clients: **3000**
