@@ -143,14 +143,9 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 ## 📌 Conclusion
 This project demonstrates how combining **Python EDA** with **Power BI dashboards** can transform raw banking data into actionable risk insights. The solution supports proactive risk management, reduces default probability, and balances portfolio growth with liquidity stability.
 
----
 
-## 📎 How to Use This Project
-1. Review the Python EDA notebook for data understanding
-2. Explore the Power BI dashboard pages for insights
-3. Use the recommendations to simulate real-world credit decisions
 
 ---
 
-⭐ If you find this project useful, feel free to fork or star the repository.
+⭐ If you find this project useful, feel free to fork or star the repository!.
 
