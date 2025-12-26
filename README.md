@@ -57,7 +57,7 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Images/Screenshot 2025-12-26 174032.png" width="800">
+  <img src="Images/Executive Summary.png" width="800">
 </p>
 
 
@@ -74,7 +74,10 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 ---
 
 ### 2️⃣ Loan Analysis
-**Purpose:** Analyze loan exposure and concentration
+**Purpose:** Analyze loan exposure and concentration 
+<p align="center">
+  <img src="Images/Loan analysis.png" width="800">
+</p>
 
 **Insights:**
 - Business lending dominates total loan exposure (₹2.6bn)
@@ -85,7 +88,9 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 
 ### 3️⃣ Deposit Analysis
 **Purpose:** Evaluate funding stability and deposit composition
-
+<p align="center">
+  <img src="Images/Deposit Analysis.png" width="800">
+</p>
 **Insights:**
 - Total Deposits: **₹3.77bn**
 - Savings and Checking accounts form the bulk of deposits
@@ -96,7 +101,9 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 
 ### 4️⃣ Summary & Risk Segmentation
 **Purpose:** Combine risk, exposure, and actionability
-
+<p align="center">
+  <img src="Images/Summary.png" width="800">
+</p>
 **Key Visuals:**
 - Client Segmentation Scatter Plot (Deposits vs Loans)
 - Risk category table with conditional formatting
