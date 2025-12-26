@@ -41,10 +41,28 @@ EDA is performed using **Python (Pandas, Matplotlib, Seaborn)**.
 - Distribution and outlier analysis
 - Risk segmentation by income band, tenure, and relationship type
 
-### Key EDA Findings
+### Key EDA Findings/Insights 
+
+Financial Behavior: Customers who maintain checking accounts are likely to have savings accounts and vice versa. This suggests that individuals who engage more with banking services tend to manage their finances through multiple accounts.
+
+Marketing Opportunities: If there’s a strong correlation, it may present an opportunity for targeted marketing campaigns. For example, we could promote savings account products to checking account holders to encourage them to save more.
+
+Risk Assessment: High correlation may point to lower risk profiles for customers with both types of accounts. These customers might be more financially stable and responsible, making them more desirable for loans or credit products.
+
+Product Bundling: The correlation suggests potential for bundling checking and savings accounts, which could enhance customer satisfaction and loyalty.
+
+Customer Segmentation: we can use this insight to segment customers based on their account types, allowing for tailored services and communication.
+
+Behavioral Patterns: It might indicate that customers are using checking accounts for daily transactions while saving in savings accounts, highlighting different financial behaviors. 
+
 - Loan and deposit values are right-skewed, indicating concentration risk
 - High-risk clients have disproportionately higher loan exposure
-- Longer engagement does not always correlate with lower risk
+- Longer engagement does not always correlate with lower risk  
+
+<p align="center">
+  <img src="Images/EDA.png" width="800">
+</p>
+
 
 ---
 
