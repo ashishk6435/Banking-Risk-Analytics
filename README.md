@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 Banks face significant financial risk when lending to customers who may default. This project focuses on **banking risk analytics**, combining **Python-based exploratory data analysis (EDA)** with an **interactive Power BI dashboard** to help stakeholders assess credit risk, exposure concentration, and liquidity imbalance *before* approving or expanding loans.
 
-The solution enables data-driven decision-making by identifying high-risk clients, monitoring loan-to-deposit imbalance, and highlighting safer growth opportunities.
 
 ---
 
@@ -13,7 +12,7 @@ Poor credit risk assessment can lead to:
 - Liquidity stress due to loan–deposit imbalance
 - Excessive exposure to high-risk client segments
 
-**Objective:**  
+**Project Objective:**  
 To analyze customer, loan, and deposit data to:
 - Evaluate repayment likelihood
 - Identify high-risk exposure
@@ -21,7 +20,7 @@ To analyze customer, loan, and deposit data to:
 
 ---
 
-## 🗂️ Dataset Description
+## 🗂️ Dataset Overview
 The dataset contains historical banking data with:
 - Client demographics (Gender, Nationality, Income Band)
 - Banking relationships (Retail, Private Bank, Commercial, Institutional)
@@ -33,12 +32,12 @@ The dataset contains historical banking data with:
 ---
 
 ## 🧪 Exploratory Data Analysis (Python)
-EDA was performed using **Python (Pandas, NumPy, Matplotlib, Seaborn)**.
+EDA is performed using **Python (Pandas, Matplotlib, Seaborn)**.
 
 ### Key EDA Steps
 - Data cleaning and type corrections
 - Handling missing and inconsistent values
-- Feature engineering (Client Count, Loan-to-Deposit Ratio)
+- Feature engineering (Client Count, Loan-to-Deposit Ratio, Risk-Scores)
 - Distribution and outlier analysis
 - Risk segmentation by income band, tenure, and relationship type
 
@@ -76,7 +75,7 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 ### 2️⃣ Loan Analysis
 **Purpose:** Analyze loan exposure and concentration 
 <p align="center">
-  <img src="Images/Loan analysis.png" width="800">
+  <img src="Images/Loan Analysis.png" width="800">
 </p>
 
 **Insights:**
@@ -146,10 +145,10 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+## 🛠️ Tools & Technologies Used:
+- **Python:** Pandas, Matplotlib, Seaborn
 - **Power BI:** DAX, conditional formatting, drill-through, scatter analysis
-- **SQL:** Data validation and aggregation (optional)
+- **SQL:** Data validation and aggregation
 
 ---
 
@@ -157,8 +156,4 @@ The dashboard is divided into **four analytical pages**, each answering a specif
 This project demonstrates how combining **Python EDA** with **Power BI dashboards** can transform raw banking data into actionable risk insights. The solution supports proactive risk management, reduces default probability, and balances portfolio growth with liquidity stability.
 
 
-
----
-
-⭐ If you find this project useful, feel free to fork or star the repository!.
 
